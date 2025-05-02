@@ -1,6 +1,7 @@
-normal loss: 258.4679260253906
-wall loss: 186.3979034423828
-{hidden_eval_1} val loss: {your loss}
-{hidden_eval_2} val loss: {your loss}
-# number of trainable parameters of your model
+normal loss: 242.29518127441406
+wall loss: 188.55023193359375
+wall_other loss: 180.98507690429688
+expert loss: 202.5786895751953{hidden_eval_1} val loss: {your loss}
+Total Trainable Parameters: 23,229,856
 # training command to replicate your submitted model
+python train.py
