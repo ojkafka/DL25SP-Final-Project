@@ -3,5 +3,4 @@ wall loss: 188.55023193359375
 wall_other loss: 180.98507690429688
 expert loss: 202.5786895751953{hidden_eval_1} val loss: {your loss}
 Total Trainable Parameters: 23,229,856
-# training command to replicate your submitted model
 python train.py
